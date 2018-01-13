@@ -1,2 +1,2 @@
 Hello world
-From branch comflict
+From branch master
